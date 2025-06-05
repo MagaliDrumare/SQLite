@@ -5,7 +5,7 @@
 
 ## Définition de SQLite
 
-SQLite est un système de gestion de base de données relationnelle (SGBDR) léger, autonome et embarqué, conçu pour fonctionner sans serveur externe[1][2][3]. Contrairement aux bases de données classiques comme MySQL ou PostgreSQL, qui utilisent une architecture client-serveur, SQLite s’intègre directement dans les applications et stocke l’intégralité de la base de données dans un seul fichier sur le disque. 
+SQLite est un système de gestion de base de données relationnelle (SGBDR) léger, autonome et embarqué, conçu pour fonctionner sans serveur externe. Contrairement aux bases de données classiques comme MySQL ou PostgreSQL, qui utilisent une architecture client-serveur, SQLite s’intègre directement dans les applications et stocke l’intégralité de la base de données dans un seul fichier sur le disque. 
 
 ## Caractéristiques principales
 
