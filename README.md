@@ -1,6 +1,6 @@
 # SQLite
 
-### VIDÉO SQLite & LangChain 
+### Vidéo SQLite & LangChain 
 - https://drive.google.com/file/d/1srtSIKtaMlEcxZXaiuOI2rL9bPKMqZmh/view?usp=sharing
 
 ## Définition de SQLite
