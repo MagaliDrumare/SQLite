@@ -25,18 +25,12 @@ SQLite est largement utilisé dans :
 - Les logiciels de bureautique et de messagerie (ex : Skype)
 - Les systèmes embarqués et IoT
 
-## Conclusion
-
 SQLite est donc une solution de base de données relationnelle simple, efficace et très répandue, privilégiée pour les projets nécessitant une base intégrée, portable et facile à gérer, sans la complexité d’un serveur dédié. 
 
-- https://datascientest.com/sqlite-tout-savoir
-- https://fr.wikipedia.org/wiki/SQLite
-- https://www.ionos.fr/digitalguide/sites-internet/developpement-web/sqlite/
-- https://kinsta.com/fr/blog/sqlite-vs-mysql/
-- https://www.astera.com/fr/knowledge-center/postgresql-vs-sqlite/
-- https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1203607-sqlite-definition/
-- https://blog.stephane-robert.info/docs/services/bdd/relationnelles/sqlite/
 - https://sqlite.fr
+- https://datascientest.com/sqlite-tout-savoir
+- https://www.astera.com/fr/knowledge-center/postgresql-vs-sqlite/
+
 
 
 ## Intégration entre SQLite et LangChain
@@ -72,7 +66,4 @@ En résumé, l’intégration entre SQLite et LangChain ouvre la voie à des app
 - https://python.langchain.com/docs/integrations/memory/sqlite/
 - https://python.langchain.com/docs/integrations/vectorstores/sqlitevec/
 - https://n8n.io/workflows/2292-talk-to-your-sqlite-database-with-a-langchain-ai-agent/
-- https://www.youtube.com/watch?v=VZEv8oKTY-c
-- https://alejandro-ao.com/chat-with-mysql-using-python-and-langchain/
-- https://python.langchain.com/docs/integrations/vectorstores/sqlitevss/
 - https://towardsdatascience.com/retrieval-augmented-generation-in-sqlite/
